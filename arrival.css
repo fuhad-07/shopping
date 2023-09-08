@@ -1,0 +1,13 @@
+.card-link:hover{
+    border-bottom: 1px solid red;
+}
+.card-img-top:hover{
+    text-shadow: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 2;
+}

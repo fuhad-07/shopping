@@ -1,0 +1,60 @@
+.bi{
+    width: 20px;
+    margin-top: 10px;
+}
+.card-img{
+    width: 200px;
+    overflow: hidden;
+}
+.card{
+    width: 250px;
+    border: none;
+}
+.card-img1{
+    width: 200px;
+    height: 270px;
+    overflow: hidden;
+}
+.card:hover{
+    text-shadow: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 2;
+}
+.photo{
+    max-width: 100%;
+    height: auto;
+}
+/* .head2{
+    border-bottom: 1px solid black;
+} */
+.photo:hover{
+    text-shadow: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 2;
+}
+.third{
+    max-width: 100%;
+    height: auto;
+}
+.fashion{
+    max-width: 100%;
+    height: auto;
+}
+.home{
+    max-width: 100%;
+    height: auto;
+}
+.ele{
+    max-width: 100%;
+    height: auto;
+}
